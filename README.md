@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<h1 align="center">Hi 👨🏻‍💻, I'm Rohit Bansode</h1>
+<h1 align="center">Hi 👨🏻‍💻.   <br>    I'm Rohit Bansode</h1>
 <h3 align="center">A guy Robotic head from India</h3>
 
 <ul>
