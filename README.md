@@ -3,12 +3,12 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Rohit Bansode - Frontend Developer</title>
+<title>Rohit Bansode</title>
 </head>
 <body>
 
 <h1 align="center">Hi 👋, I'm Rohit Bansode</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A guy Robotic head from India</h3>
 
 <ul>
   <li>🌱 I’m currently learning <strong>React</strong> and <strong>React Native</strong></li>
