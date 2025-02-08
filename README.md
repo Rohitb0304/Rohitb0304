@@ -8,7 +8,7 @@
 <body>
 
 <h1 align="center">Hi 👨🏻‍💻.   <br>    I'm Rohit Bansode</h1>
-<h3 align="center">A guy Robotic head from India</h3>
+<h3 align="center">A guy with a Robotic head from India</h3>
 
 <ul>
   <li>🌱 I’m currently learning <strong>React</strong> and <strong>React Native</strong></li>
