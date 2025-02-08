@@ -11,7 +11,6 @@
 <h3 align="center">A guy with a Robotic head from India</h3>
 
 <ul>
-  <li>🌱 I’m currently learning <strong>React</strong> and <strong>React Native</strong></li>
   <li>💬 Ask me about <strong>Java</strong> and <strong>Django</strong></li>
   <li>📫 How to reach me: <a href="mailto:rohitb.4103@icloud.com">rohitb.4103@icloud.com</a></li>
 </ul>
